@@ -1,6 +1,10 @@
+var moment = require('moment'); // require
+moment().format();
+import * as Tone from 'tone';
+
 /* global moment */
 
-console.log("javescriiiiiiiiiiiipt");
+console.log("noooooooooooooode");
 
 var datetime = moment().format('MMMM Do YYYY, h:mm:ss a');
 console.log(datetime);
